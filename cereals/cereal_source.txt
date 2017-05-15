@@ -1,0 +1,40 @@
+BREAKFAST CEREAL DATA 
+
+Develop a dashboard that would allow the consumer
+to quickly compare a particular cereal to other possible choices. Some
+additional questions to consider:
+
+    * Are there any cereals which are virtually identical?
+    * Is there any way to discriminate among the major manufacturers by
+      cereal characteristics, or do they each have a "balanced
+      portfolio" of cereals?
+    * Do the nutritional claims made in cereal advertisements stand the
+      scrutiny of data analysis?
+    * Are there cereals which are clearly nutritionally superior, or
+      inferior? Are there clusters of cereals?
+    * Is a ranking or scoring scheme possible or reasonable, and if so,
+      are there cereals which are nutritionally superior or inferior
+      under all reasonable weighting schemes? 
+
+The variables of the dataset are listed below, in order. For
+convenience, we suggest that you use the variable name supplied in
+square brackets.
+
+Breakfast cereal variables: cereal name [name] manufacturer (e.g.,
+Kellogg's) [mfr] type (cold/hot) [type] calories (number) [calories]
+protein(g) [protein] fat(g) [fat] sodium(mg) [sodium] dietary fiber(g)
+[fiber] complex carbohydrates(g) [carbo] sugars(g) [sugars] display
+shelf (1, 2, or 3, counting from the floor) [shelf] potassium(mg)
+[potass] vitamins & minerals (0, 25, or 100, respectively indicating
+'none added'; 'enriched, often to 25% FDA recommended'; '100% of FDA
+recommended') [vitamins] weight (in ounces) of one serving (serving
+size) [weight] cups per serving [cups] 
+
+Manufacturers are represented by their first initial: A=American Home
+Food Products, G=General Mills, K=Kelloggs, N=Nabisco, P=Post, Q=Quaker
+Oats, R=Ralston Purina)
+
+The breakfast cereal <cereal> data are available in an ASCII file, one
+cereal per record, with underscores in place of the spaces in the cereal
+name, and spaces separating the different variables. The value -1
+indicates missing data.

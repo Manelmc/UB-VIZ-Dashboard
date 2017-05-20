@@ -25,7 +25,7 @@ Double_Chex R C 100 2 0 190 1 18 5 3 80 25 1 0.75
 Froot_Loops K C 110 2 1 125 1 11 13 2 30 25 1 1
 Frosted_Flakes K C 110 1 0 200 1 14 11 1 25 25 1 0.75
 Frosted_Mini-Wheats K C 100 3 0 0 3 14 7 2 100 25 1 0.8
-Fruit_&_Fibre_Dates,_Walnuts,_and_Oats P C 120 3 2 160 5 12 10 3 200 25 1.25 0.67
+Fruit_&_Fibre_Dates_Walnuts_and_Oats P C 120 3 2 160 5 12 10 3 200 25 1.25 0.67
 Fruitful_Bran K C 120 3 0 240 5 14 12 3 190 25 1.33 0.67
 Fruity_Pebbles P C 110 1 1 135 0 13 12 2 25 25 1 0.75
 Golden_Crisp P C 100 2 0 45 0 11 15 1 40 25 1 0.88
@@ -42,8 +42,8 @@ Kix G C 110 2 1 260 0 21 3 2 40 25 1 1.5
 Life Q C 100 4 2 150 2 12 6 2 95 25 1 0.67
 Lucky_Charms G C 110 2 1 180 0 12 12 2 55 25 1 1
 Maypo A H 100 4 1 0 0 16 3 2 95 25 1 -1
-Muesli_Raisins,_Dates,_&_Almonds R C 150 4 3 95 3 16 11 3 170 25 -1 -1
-Muesli_Raisins,_Peaches,_&_Pecans R C 150 4 3 150 3 16 11 3 170 25 -1 -1
+Muesli_Raisins_Dates_&_Almonds R C 150 4 3 95 3 16 11 3 170 25 -1 -1
+Muesli_Raisins_Peaches_&_Pecans R C 150 4 3 150 3 16 11 3 170 25 -1 -1
 Mueslix_Crispy_Blend K C 160 3 2 150 3 17 13 3 160 25 1.5 0.67
 Multi-Grain_Cheerios G C 100 2 1 220 2 15 6 1 90 25 1 1
 Nut&Honey_Crunch K C 120 2 1 190 0 15 9 2 40 25 1 0.67
